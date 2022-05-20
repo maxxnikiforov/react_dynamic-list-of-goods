@@ -1,0 +1,2 @@
+.app{display:flex;flex-direction:column;align-items:center}.app__title{color:green}.app__button{width:150px;height:50px;background-color:#7fffd4;font-size:20px;margin-bottom:10px;border-radius:8px;border:1px solid green;cursor:pointer;transition:all .5s}.app__button:hover{-webkit-transform:scale(1.1);transform:scale(1.1);background-color:#0ff}.list{list-style:none}.list__item{font-size:18px}
+/*# sourceMappingURL=main.79681f84.chunk.css.map */
